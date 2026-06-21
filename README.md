@@ -103,22 +103,6 @@ Innovation: "Always exploring cutting-edge technologies"
 Problem_Solving: "Turning complex challenges into elegant solutions"
 ```
 
-## 📈 Learning Journey
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[JavaScript Fundamentals] --> B[React Ecosystem]
-    B --> C[Node.js & Express]
-    C --> D[Database Management]
-    D --> E[DevOps & Deployment]
-    E --> F[Currently: Langchain & MCP]
-    F --> G[Future: AI/ML Integration]
-```
-
-</div>
-
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
