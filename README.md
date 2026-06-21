@@ -25,7 +25,6 @@ const ayush = {
     role: "Full-Stack Developer",
     pronouns: "He/Him",
     interests: ["Web Development", "UI/UX Design", "Emerging Technologies"],
-    currentlyLearning: ["Langchain", "MCP (Model Context Protocol)"],
     lookingToCollaborate: ["Open Source Projects", "Web Applications", "Tech Startups"],
     funFact: "I believe great design is invisible - it just works seamlessly!"
 };
