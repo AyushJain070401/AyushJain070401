@@ -36,7 +36,7 @@ const ayush = {
 
 | 📅 Experience | 🏭 Platforms Shipped | 📦 OSS Packages | 👩‍💻 Devs Using Msgly |
 |:---:|:---:|:---:|:---:|
-| 2.5+ years | 2 production | 8+ | 1000+ |
+| 2.5+ years | 5 production | 8+ | 1000+ |
 
 </div>
 
