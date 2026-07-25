@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:8B5CF6&height=220&section=header&text=Ayush%20Jain&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20AI%2FML%20Platforms%20%C2%B7%20Open%20Source&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://ayushjain070401.github.io/ayushjain070401/"><img src="https://img.shields.io/badge/ayushjain070401-ayushjain070401.github.io-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://ayushjain070401.github.io/portfolio/"><img src="https://img.shields.io/badge/ayushjain070401-ayushjain070401.github.io-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://linkedin.com/in/ayush-jain-01a967244"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:ayushjain070401@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/AyushJain070401"><img src="https://komarev.com/ghpvc/?username=AyushJain070401&style=for-the-badge&color=8B5CF6&label=Profile+Views" /></a>
