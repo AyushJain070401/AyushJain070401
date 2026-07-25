@@ -34,9 +34,9 @@ const ayush = {
 
 <div align="center">
 
-| 📅 Experience | 🏭 Platforms Shipped | 📦 OSS Packages | 👩‍💻 Devs Using OmniDB |
+| 📅 Experience | 🏭 Platforms Shipped | 📦 OSS Packages | 👩‍💻 Devs Using Msgly |
 |:---:|:---:|:---:|:---:|
-| 2.5+ years | 2 production | 8+ | 80+ |
+| 2.5+ years | 2 production | 8+ | 1000+ |
 
 </div>
 
