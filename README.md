@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=100&lines=Full-Stack+Developer+%40+Katonic+AI;Building+self-serve+LLM+deployment+platforms;Shipping+real-time+voice+AI+with+WebSockets;Maintainer+of+OSS+NPM+packages+%26+MCP+servers" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=100&lines=Full-Stack+Developer;Building+self-serve+LLM+deployment+platforms;Shipping+real-time+voice+AI+with+WebSockets;Maintainer+of+OSS+NPM+packages+%26+MCP+servers" alt="Typing SVG" />
 
 </div>
 
